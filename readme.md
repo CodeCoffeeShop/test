@@ -1,3 +1,3 @@
-#First ry
-##Testing Git
-#Hello
+# First try
+## Testing Git
+# Hello
